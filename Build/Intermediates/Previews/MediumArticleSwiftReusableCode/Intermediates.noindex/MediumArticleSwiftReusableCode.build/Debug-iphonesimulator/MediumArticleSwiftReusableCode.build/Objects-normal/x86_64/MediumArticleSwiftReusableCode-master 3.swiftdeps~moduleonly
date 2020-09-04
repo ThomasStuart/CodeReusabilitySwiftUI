@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "201dd81b4b7125b315fc72ca3bb95a59"
+build_time: [1599209375, 814951000]
+inputs:
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/AppDelegate.swift": [1599196808, 835954395]
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/Components/Text/iText.swift": [1599202476, 801189851]
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/UI/ButtonView.swift": [1599209370, 359679475]
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/Utilities/StaticText.swift": [1599202270, 434064446]
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/SceneDelegate.swift": [1599205597, 325057813]
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/UI/TextView.swift": [1599205619, 686548606]
+  "/Users/Thomas_Stuart/Desktop/GolfAI/GolfApp/Views/SwiftUI Elements/Button/iButton.swift": [1599209353, 711784090]
+  "/Users/Thomas_Stuart/Library/Mobile Documents/com~apple~CloudDocs/Desktop/XcodeProjects/MediumArticleSwiftReusableCode/MediumArticleSwiftReusableCode/Utilities/Color.swift": [1599201420, 666724972]
